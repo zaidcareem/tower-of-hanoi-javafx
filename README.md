@@ -9,8 +9,8 @@
   1) No larger disk can be placed on top of a smaller disk.
   2) Only 1 disk can be moved at a time.
 
-This is a project done in IntelliJ IDEA Community Edition 2021
-
 ##### Other :
 
-Use the change no:of discs option if you want to restart the game before your complete it.
+- Use the change no:of discs option if you want to restart the game before your complete it.
+
+- This is a project done in IntelliJ IDEA Community Edition 2021
