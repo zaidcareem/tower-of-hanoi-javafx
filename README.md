@@ -11,6 +11,6 @@
 
 ##### Other :
 
-- Use the change no:of discs option if you want to restart the game before your complete it.
+- Use the change no:of discs option if you want to restart the game before you complete it.
 
 - This is a project done in IntelliJ IDEA Community Edition 2021
